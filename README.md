@@ -5,4 +5,4 @@
  ![](https://github.com/nish24/Social/blob/master/Image/device-2016-04-12-015336.png)
  ![](https://github.com/nish24/Social/blob/master/Image/device-2016-04-12-015902.png)
 ## tutorial
- [Quick Tutorial]("https://github.com/nish24/Social/wiki")
+ [Quick Tutorial](https://github.com/nish24/Social/wiki)
